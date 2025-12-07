@@ -26,7 +26,7 @@ $x^n + (1-x)^n$을 $f(x)$로 나눈 나머지는\
 $p_n x + q_n + p_n (1-x) + q_n = p_n + 2 q_n $이다.(참)\
 따라서 정답은 *ㄱ, ㄴ, ㄷ* 이다. ~#sym.square.filled
 
-#pagebreak()  
+#pagebreak()
 
 #box_text("3",first: true)
 주어진 식에 $x= -4,0,2$를 대입하여 풀면 된다.\
