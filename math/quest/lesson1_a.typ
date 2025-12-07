@@ -56,7 +56,7 @@ $x = sqrt(2)$, $y = sqrt(3)$라고 하자. 이때 $x^2 + y^2 = 2 + 3 = 5$는 유
 
 *만약* 연습문제 1-10에 대입한다면, $x^3 + y^3$이 유리수라는 조건에 위배되므로, 반례가 성립하지 않는다.
 
-따라서 정답은 *ㄱ, ㄴ, ㄷ* 이다. ~#sym.square.filled
+따라서 정답은 *ㄱ, ㄴ* 이다. ~#sym.square.filled
 
 #pagebreak()
 
@@ -68,7 +68,7 @@ $x = sqrt(2)$, $y = sqrt(3)$라고 하자. 이때 $x^2 + y^2 = 2 + 3 = 5$는 유
     columns: (1.5fr, 2fr),
     gutter: 0pt,
     [
-      #image("resource/lesson1_a_triangle.png", width: 100%)
+      #image("../resource/lesson1_a_triangle.png", width: 100%)
     ],
     [
       \
