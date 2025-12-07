@@ -33,3 +33,8 @@ $f(x)$ 를 $x^2-3x+2$ 로 나눈 나머지를 $a x+b$ ($a,b$ 는 상수) 라 할
         "ㄷ " + math.equation($x^n+(1-x)^n$)+"을 " + math.equation($f(x)$) + "로 나눈 나머지는 "+ math.equation($p_n + 2 q_n$) +"이다"
     )
 )
+
+#box_text("3")
+최고차항의 계수가 1인 삼차다항식 $f(x)$ 가 임의의 $x$에 대하여 \
+#align(center,$(x-2)f(x-1)=(x+4)f(x-1)$)
+을 만족시킬 때, $f(2)$ 의 값을 구하시오.
