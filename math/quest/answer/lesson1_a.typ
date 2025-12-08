@@ -68,7 +68,7 @@ $x = sqrt(2)$, $y = sqrt(3)$라고 하자. 이때 $x^2 + y^2 = 2 + 3 = 5$는 유
     columns: (1.5fr, 2fr),
     gutter: 0pt,
     [
-      #image("../resource/lesson1_a_triangle.png", width: 100%)
+      #image("../../resource/lesson1_a_triangle.png", width: 100%)
     ],
     [
       \
