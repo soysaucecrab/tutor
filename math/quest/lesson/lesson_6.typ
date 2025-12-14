@@ -18,11 +18,11 @@
 #linebreak()
 #linebreak()
 
-(1) $(i+sqrt(3))/2$
+(2) $(i+sqrt(3))/2$
 
 #linebreak()
 #linebreak()
 #linebreak()
 #linebreak()  
 
-(1) $(-1+sqrt(3)i)/2$
+(3) $(-1+sqrt(3)i)/2$
