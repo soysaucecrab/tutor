@@ -76,6 +76,8 @@ typst compile 파일명.typ
 typst compile lorem.typ
 ```
 
+다만, Visual Studio Code 사용 시 PDF 빌드용 Extension을 사용하는 것을 추천합니다.
+
 ---
 
 ## 참고 사항
