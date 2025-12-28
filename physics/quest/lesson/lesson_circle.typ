@@ -79,3 +79,10 @@
 그림과 같이 반지름이 $R$인 반구의 가장 높은 곳에서 질량 $m$인 공이 마찰이 없는
 구변을 따라 내려온다. 이 공이 반구를 떠나는 곳의 높이는 얼마인가? 
 #align(center,image("../../resource/perfect_5.png", width: 10cm))
+
+#pagebreak()
+
+#box_problem(4,15,first: true)
+그림과 같이 질량이 m인 공이 질량을 무시할 수 있는 두 개의 줄에 묶여 회전하
+는 막대에 연결되어 있다， 위쪽 줄의 장력이 50N 일 때 아래쪽 줄의 장력은?
+#align(center,image("../../resource/perfect_4_15.png", width: 10cm))
