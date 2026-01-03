@@ -17,7 +17,7 @@
       (단, 사람의 질량을 $m$이라 하자 )
     ],
     [
-      #image("../../resource/perfect_53_1.png", width: 5.5cm)
+      #image("../../resource/perfect/perfect_53_1.png", width: 5.5cm)
     ],
 )
 
@@ -34,7 +34,7 @@
       + 자동차가 내려오는 높이를 $h$ 라고 할 때, 회전하기 위한 최소 높이를 구하시오.
     ],
     [
-      #image("../../resource/perfect_53_2.png", width: 7cm)
+      #image("../../resource/perfect/perfect_53_2.png", width: 7cm)
     ],
 )
 
@@ -56,7 +56,7 @@
 
     ],
     [
-      #image("../../resource/serway_6_3.png", width: 7cm)
+      #image("../../resource/serway/serway_6_3.png", width: 7cm)
     ],
 )
 
@@ -64,7 +64,7 @@
 
 #box_problem(8,2)
 연극 공연 중 무대 위로 날아서 등장하는 배우를 지탱할 수 있는 무대 장치를 설계한다고 하자. 배우의 질량은 65.0 kg이다. 그림과 같이 배우 몸을 지탱하는 멜빵 장치와 130 kg의 모래주머니가 가벼운 철선으로 연결되어 마찰이 없는 두 도르래 위를 움직이도록 한다. 멜빵 장치와 가장 가까운 도르래 사이의 철선의 길이가 3.00 m가 되도록 하고 무대 커튼의 뒤에 있는 도르래가 안 보이도록 한다. 배우가 공중에서부터 무대 바닥으로 줄에 매달려 날아와 사뿐히 착지하도록 하기 위해서는 모래주머니가 절대 바닥에서 들리면 안 된다. 처음에 철선이 무대 바닥에 수직인 방향과 이룬 각도를 $theta$라 하자. 모래주머니가 들리지 않기 위한 최대 각도를 구하라.
-#align(center,image("../../resource/serway_8_2.png", width: 10cm))
+#align(center,image("../../resource/serway/serway_8_2.png", width: 10cm))
 
 
 #pagebreak()
@@ -73,16 +73,16 @@
 그립과 같이 질량이 1kg인 추가 마찰이 없는 책상에서 구멍을 통해 질량이 2kg인
 추와 연결되어 있다. 이때 질량이 1kg인 추가 얼마의 속력으로 원운동을 하면 질랑
 2kg의 추가 그대로 정지해 있겠는가? (원의 반지름은 5m이다 ) 
-#align(center,image("../../resource/perfect_4_14.png", width: 10cm))
+#align(center,image("../../resource/perfect/perfect_4_14.png", width: 10cm))
 
 #box_problem(4,14)
 그림과 같이 반지름이 $R$인 반구의 가장 높은 곳에서 질량 $m$인 공이 마찰이 없는
 구변을 따라 내려온다. 이 공이 반구를 떠나는 곳의 높이는 얼마인가? 
-#align(center,image("../../resource/perfect_5.png", width: 10cm))
+#align(center,image("../../resource/perfect/perfect_5.png", width: 10cm))
 
 #pagebreak()
 
 #box_problem(4,15,first: true)
 그림과 같이 질량이 m인 공이 질량을 무시할 수 있는 두 개의 줄에 묶여 회전하
 는 막대에 연결되어 있다， 위쪽 줄의 장력이 50N 일 때 아래쪽 줄의 장력은?
-#align(center,image("../../resource/perfect_4_15.png", width: 10cm))
+#align(center,image("../../resource/perfect/perfect_4_15.png", width: 10cm))
