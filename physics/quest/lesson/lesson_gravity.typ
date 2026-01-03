@@ -12,7 +12,7 @@
 #align(center,image("../../resource/perfect/perfect_8_15.png",width: 8cm))
 
 #box_problem(8,18)
-밀도가 $rho$로 균일한 반지름 $R$인 행성의 자전주기의 최소값은?
+밀도가 $rho$로 균일한 반지름 $R$인 행성의 자전주기의 최솟값은?
 
 #pagebreak()
 
