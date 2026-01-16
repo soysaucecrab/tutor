@@ -1,5 +1,4 @@
 #import "@local/tutor:1.0.0": *
-#import "@preview/muchpdf:0.1.2": muchpdf
 
 #set text(font: "NanumMyeongjo", size: 13pt)
 #show block: set text(size: 13pt)
@@ -10,7 +9,7 @@
 #box_text("1",first: true)
 다음 물음에 예 혹은 아니오 로 답하고, 그 이유를 간단히 설명하세요.
 #linebreak() #linebreak()
-- $g compose f$의 역함수가 존재하면 $f^(-1),g^(-1)$의 역함수도 존재한다.
+- $g compose f$의 역함수가 존재하면 $f^(-1),g^(-1)$도 존재한다.
 #linebreak()
 - 함수 $f(x)$가 존재할 때 $g(f(x))=x$이면 $g(x)$는 $f(x)$의 역함수이다.
 #linebreak()
