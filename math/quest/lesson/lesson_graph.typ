@@ -16,7 +16,7 @@
 정의역이 ${x|0<=x<=2}$인 함수 $f(x)=2|x-1|$에 대하여\
 (1) $y=(f compose f)(x)$와 $y=(f compose f compose f)(x)$의 그래프를 그리시오.
 #image("../../resource/axis.png", width: 8cm)
-(2) $0<=x<=2$에서 방정식 (f compose f compose f)(x)=x를 만족시키는 모든 실수 $x$의 개수를 구하시오.
+(2) $0<=x<=2$에서 방정식 $(f compose f compose f)(x)=x$를 만족시키는 모든 실수 $x$의 개수를 구하시오.
 
 #pagebreak()
 
