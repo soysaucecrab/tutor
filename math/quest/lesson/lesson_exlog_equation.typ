@@ -64,19 +64,29 @@ $a>0,b>0,a^2+b^2<1$일 때, 다음 세 식의 대소를 비교하여라.
 
 #header("지수와 로그의 방정식 및 부등식 복습 문제 - 일등급수학")
 
-#box_problem(3,59)
+#box_problem(3,59,first: true)
 모든 실수 $x$에 대하여 부등식 $4^x-2(a-4)2^x+2a>=0$이 항상 성립하도록 하는 실수 $a$값의 범위를 구하여라.
 
-#box_problem(3,60)
+#linebreak()
+#linebreak()
+#linebreak()
+
+#box_problem(3,60,first: true)
 $-2<=x<=1$에서 부등식 $4^x-6 times 2^x>=4^alpha-6 times 2^alpha$이 항상 성립하도록 하는 모든 정수 $alpha$의 값의 합을 구하시오.
 
-#box_problem(3,61)
+#linebreak()
+#linebreak()
+#linebreak()
+
+#box_problem(3,61,first: true)
 $(x^2-x-1)^(x+3)=1$을 만족시키는 정수 $x$의 개수를 구하여라.
 
-#pagebreak()
+#linebreak()
+#linebreak()
+#linebreak()
 
-#box_problem(3,62)
-$k$가 실수일 때, 방정식 $(4^x+4^(-x))-2(2^x+2^(-x))+k=0$에 대하여 [보기]에서 옳은 것만을 있는 대로 고른시오.
+#box_problem(3,62,first: true)
+$k$가 실수일 때, 방정식 $(4^x+4^(-x))-2(2^x+2^(-x))+k=0$에 대하여 [보기]에서 옳은 것만을 있는 대로 고르시오.
 #box_problem_context(
   [[보기]\ ]+
   [
