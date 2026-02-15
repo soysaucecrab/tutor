@@ -33,3 +33,6 @@ $a_1>a_2>a_3>dot dot dot>a_n$일 때, 다음 방정식의 실근의 개수를 �
 #set page(margin: 0.5in)
 #align(center,image(read("../../PDF/2026 수능특강 수학Ⅱ.pdf", encoding: none), page: 16, width: 21cm, height: 30cm))
 #align(center,image(read("../../PDF/2026 수능특강 수학Ⅱ.pdf", encoding: none), page: 27, width: 21cm, height: 30cm))
+
+#align(center,image(read("../../PDF/일등급 수학 수2.pdf", encoding: none), page: 39, width: 21cm, height: 30cm))
+#align(center,image(read("../../PDF/2026 수능특강 수학Ⅱ.pdf", encoding: none), page: 40, width: 21cm, height: 30cm))
