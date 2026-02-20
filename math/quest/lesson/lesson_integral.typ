@@ -6,11 +6,11 @@
 #set par(leading: 1em)
 
 #set page(margin: 0in)
-#align(center,image(read("../../PDF/일등급 수학 수2.pdf", encoding: none), page: 75, width: 21cm, height: 30cm))
-#align(center,image(read("../../PDF/2026 수능특강 수학Ⅱ.pdf", encoding: none), page: 79, width: 21cm, height: 30cm))
-#align(center,image(read("../../PDF/2026 수능특강 수학Ⅱ.pdf", encoding: none), page: 80, width: 21cm, height: 30cm))
+#align(center,image(read("../../PDF/일등급 수학 수2.pdf", encoding: none), page: 74, width: 21cm, height: 30cm))
+#align(center,image(read("../../PDF/2026 수능특강 수학Ⅱ.pdf", encoding: none), page: 77, width: 21cm, height: 30cm))
+#align(center,image(read("../../PDF/2026 수능특강 수학Ⅱ.pdf", encoding: none), page: 78, width: 21cm, height: 30cm))
 
 #set page(margin: 0in)
-#align(center,image(read("../../PDF/일등급 수학 수2.pdf", encoding: none), page: 87, width: 21cm, height: 30cm))
-#align(center,image(read("../../PDF/2026 수능특강 수학Ⅱ.pdf", encoding: none), page: 93, width: 21cm, height: 30cm))
-#align(center,image(read("../../PDF/2026 수능특강 수학Ⅱ.pdf", encoding: none), page: 94, width: 21cm, height: 30cm))
+#align(center,image(read("../../PDF/일등급 수학 수2.pdf", encoding: none), page: 86, width: 21cm, height: 30cm))
+#align(center,image(read("../../PDF/2026 수능특강 수학Ⅱ.pdf", encoding: none), page: 91, width: 21cm, height: 30cm))
+#align(center,image(read("../../PDF/2026 수능특강 수학Ⅱ.pdf", encoding: none), page: 92, width: 21cm, height: 30cm))
