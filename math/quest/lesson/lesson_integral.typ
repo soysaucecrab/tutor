@@ -62,3 +62,4 @@
 #align(center,image(read("../../PDF/일등급 수학 수2.pdf", encoding: none), page: 86, width: 21cm, height: 30cm))
 #align(center,image(read("../../PDF/2026 수능특강 수학Ⅱ.pdf", encoding: none), page: 91, width: 21cm, height: 30cm))
 #align(center,image(read("../../PDF/2026 수능특강 수학Ⅱ.pdf", encoding: none), page: 92, width: 21cm, height: 30cm))
+
