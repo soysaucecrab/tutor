@@ -3,7 +3,7 @@
 #set text(font: "NanumMyeongjo", size: 13pt)
 #show block: set text(size: 13pt)
 
-#header("Lesson 1")
+#header("다항식")
 
 #box_problem(1,7, first: true)
 $(1+x+x^2+dots+x^8)^2$ 의 전개식에서 상수항을 제외한 모든 항의 계수를 더한 값을 구하시오.

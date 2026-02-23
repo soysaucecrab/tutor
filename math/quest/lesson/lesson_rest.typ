@@ -4,7 +4,7 @@
 #show block: set text(size: 13pt)
 #set page(numbering: "1 / 1")
 
-#header("Lesson 4")
+#header("나머지정리")
 
 #box_text("1",first: true)
 삼차다항식 $f(x)$ 가 다음 조건을 만족시킨다.

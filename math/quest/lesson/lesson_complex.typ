@@ -5,7 +5,7 @@
 #set page(numbering: "1 / 1")
 #set par(leading: 1em)
 
-#header("Lesson 6 : 필수예제")
+#header("복소수")
 
 #box_problem(6,3, first: true)
 어떤 복소수 $a$를 $n$제곱 하였을 때 처음으로 실수가 되는 최소의 자연수 $n$을 $f(a)$라고 하자.

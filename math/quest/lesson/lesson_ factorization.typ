@@ -4,7 +4,7 @@
 #show block: set text(size: 13pt)
 #set page(numbering: "1 / 1")
 
-#header("Lesson 2")
+#header("인수분해")
 
 #box_text("필수예제",first: true)
 두 수 $a$, $b$ 의 최대공약수를 $3$, 최소공배수를 $24$ 이라고 할 때, $a b$ 를 구하시오.
