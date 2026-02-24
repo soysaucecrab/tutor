@@ -26,8 +26,6 @@ LaTeX에 비해 배우기 쉽고 빠르게 PDF 등 문서 결과물을 생성할
 /
 ├── math/                 # 수학 관련 Typst 문서
 ├── physics/              # 물리 관련 Typst 문서
-├── lorem.typ             # 예제 Typst 문서
-├── lorem.pdf             # 예제 PDF (컴파일 결과물)
 └── README.md             # 프로젝트 설명
 ```
 
@@ -83,6 +81,7 @@ typst compile lorem.typ
 ## 참고 사항
 
 - 본 저장소의 자료는 과외 및 수업 자료 제작용으로 자유롭게 사용할 수 있습니다.
+- 본 저장소의 자료 템플릿은 제공되지 않습니다. typst 템플릿이 필요하시면 soysaucecra6@gmail.com 으로 문의해 주세요.
 - 단, **저작권 표기(MIT License)** 는 반드시 유지해야 합니다.
 
 ---
